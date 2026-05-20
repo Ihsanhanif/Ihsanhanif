@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://imgur.com/a/59PFVSk" alt="Ihsan's Banner" width="100%">
-</p>
+![Ihsan's Banner](https://i.imgur.com/4qVm8wX.png)
 
 ### Hi there, I'm Ihsan 👋
 Solo creator-developer who ideates, designs, codes, tests, and deploys — often juggling multiple projects at once. I build across web apps, mobile, AI automation, and design. Heavily leverage AI tools to move fast and ship things that actually work.
