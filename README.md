@@ -1,22 +1,17 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300/0d1117/4ECDC4?text=Ihsan's+Banner" alt="Ihsan's Banner" width="100%">
+  <img src="https://imgur.com/a/59PFVSk" alt="Ihsan's Banner" width="100%">
 </p>
 
 ### Hi there, I'm Ihsan 👋
+Solo creator-developer who ideates, designs, codes, tests, and deploys — often juggling multiple projects at once. I build across web apps, mobile, AI automation, and design. Heavily leverage AI tools to move fast and ship things that actually work.
+
+Learning by doing. Breaking things on purpose. Building in public.
 
 <p align="center">
   <img src="https://img.shields.io/badge/_Jakarta,_Indonesia-FF6B6B?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/Status-🚀_Building_Things-4ECDC4?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Age-🎓_High_School_Student-FFE66D?style=flat-square" alt="Age">
 </p>
-
----
-
-###  About Me
-
-Solo creator-developer who ideates, designs, codes, tests, and deploys — often juggling multiple projects at once. I build across web apps, mobile, AI automation, and design. Heavily leverage AI tools to move fast and ship things that actually work.
-
-Learning by doing. Breaking things on purpose. Building in public.
 
 ---
 
